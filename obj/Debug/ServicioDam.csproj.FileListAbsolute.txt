@@ -1,0 +1,10 @@
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M9-UF3\ServicioDam\bin\Debug\ServicioDam.exe.config
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M9-UF3\ServicioDam\bin\Debug\ServicioDam.exe
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M9-UF3\ServicioDam\bin\Debug\ServicioDam.pdb
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M9-UF3\ServicioDam\obj\Debug\ServicioDam.csprojAssemblyReference.cache
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M9-UF3\ServicioDam\obj\Debug\ServicioDam.ProjectInstaller.resources
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M9-UF3\ServicioDam\obj\Debug\ServicioDam.csproj.GenerateResource.cache
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M9-UF3\ServicioDam\obj\Debug\ServicioDam.csproj.CoreCompileInputs.cache
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M9-UF3\ServicioDam\obj\Debug\ServicioDam.exe
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M9-UF3\ServicioDam\obj\Debug\ServicioDam.pdb
+C:\Users\a_rsc\Google Drive\Educem\DAM-2\M9-UF3\ServicioDam\obj\Debug\ServicioDam.BlackProcessList.resources
